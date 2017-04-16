@@ -1,4 +1,12 @@
 body {
+    font-family: "Microsoft YaHei", sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-size: 16px;
+}
 
 
+.navbar-white-cus{
+
+    color: #000;
+    background-color: #FFFFFF;
 }
